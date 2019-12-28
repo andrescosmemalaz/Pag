@@ -58,4 +58,13 @@ h3{
      text-shadow: texto3d(1200,#250);
      transform: rotate(-6deg);
 }
+
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    display: flex;
+    height: 0vmax;
+    letter-spacing: 1.5px;
+
+}
     
